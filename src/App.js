@@ -4,7 +4,7 @@ import "./App.css";
 import Person from "./Person/Person";
 class App extends Component {
   componentDidMount() {
-    swal("This is a learning project made with ❤ by Clayton");
+    swal("This is a learning project made with ❤ by Clayton and Ayadi");
   }
 
   state = {
